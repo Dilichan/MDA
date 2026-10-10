@@ -2,11 +2,10 @@
 
 Скачивание видео и музыки и совместный просмотр с друзьями.
 
-## Последняя версия — 1.24.0 (сборка 118)
+## Последняя версия — 1.26.0 (сборка 119)
 
-- **Windows:** [MDA-Setup-1.24.0.118.exe](https://github.com/Dilichan/MDA/releases/download/v1.24.0.118/MDA-Setup-1.24.0.118.exe)
-- **Android:** [MDA-Windows-1.24.0.118-Android-1.3.0.11-release.apk](https://github.com/Dilichan/MDA/releases/download/v1.24.0.118/MDA-Windows-1.24.0.118-Android-1.3.0.11-release.apk)
-- **Linux и SteamOS:** [MDA-Windows-1.24.0.118-Linux-0.4.0.6-x86_64.run](https://github.com/Dilichan/MDA/releases/download/v1.24.0.118/MDA-Windows-1.24.0.118-Linux-0.4.0.6-x86_64.run)
+- **Windows:** [MDA-Setup-1.26.0.119.exe](https://github.com/Dilichan/MDA/releases/download/v1.26.0.119/MDA-Setup-1.26.0.119.exe)
+- **Linux и SteamOS:** [MDA-Windows-1.26.0.119-Linux-0.4.0.7-x86_64.run](https://github.com/Dilichan/MDA/releases/download/v1.26.0.119/MDA-Windows-1.26.0.119-Linux-0.4.0.7-x86_64.run)
 
 Установленное приложение находит новые версии само при запуске и предлагает обновиться одной кнопкой.
 
@@ -14,6 +13,5 @@
 
 ### Контрольные суммы SHA-256
 
-- `MDA-Setup-1.24.0.118.exe`: `b6bfb2e5f1773bcac12ad2df199f3e5c136e419b50c88238dcdce8ddeb199368`
-- `MDA-Windows-1.24.0.118-Android-1.3.0.11-release.apk`: `092b69abd3e03409141e403c265b50d574da85744464fc4c3e48b2f872e53a16`
-- `MDA-Windows-1.24.0.118-Linux-0.4.0.6-x86_64.run`: `089b509c53e74dab608d60d0c66366a1bb8cacd55d5c0acf5737b9fa8d3ba93e`
+- `MDA-Setup-1.26.0.119.exe`: `f27497f29b65411c2534462175e595d2bb8a2b434bd8ccf8ce0e7b014ad26602`
+- `MDA-Windows-1.26.0.119-Linux-0.4.0.7-x86_64.run`: `fe0bf43eed5ad72852c44da3ba4702b407367a80e7550103462624f35459ec09`
