@@ -2,10 +2,10 @@
 
 Скачивание видео и музыки и совместный просмотр с друзьями.
 
-## Последняя версия — 1.31.0 (сборка 131)
+## Последняя версия — 1.31.1 (сборка 132)
 
-- **Windows:** [MDA-Setup-1.31.0.131.exe](https://github.com/Dilichan/MDA/releases/download/v1.31.0.131/MDA-Setup-1.31.0.131.exe)
-- **Linux и SteamOS:** [MDA-Windows-1.31.0.131-Linux-0.9.0.21-x86_64.run](https://github.com/Dilichan/MDA/releases/download/v1.31.0.131/MDA-Windows-1.31.0.131-Linux-0.9.0.21-x86_64.run)
+- **Windows:** [MDA-Setup-1.31.1.132.exe](https://github.com/Dilichan/MDA/releases/download/v1.31.1.132/MDA-Setup-1.31.1.132.exe)
+- **Linux и SteamOS:** [MDA-Windows-1.31.1.132-Linux-0.9.1.22-x86_64.run](https://github.com/Dilichan/MDA/releases/download/v1.31.1.132/MDA-Windows-1.31.1.132-Linux-0.9.1.22-x86_64.run)
 
 Установленное приложение находит новые версии само при запуске и предлагает обновиться одной кнопкой.
 
@@ -13,5 +13,5 @@
 
 ### Контрольные суммы SHA-256
 
-- `MDA-Setup-1.31.0.131.exe`: `56c72dc5033601d3ab7ca13fd34ff9209ad07a3a240c833735d27b00ad403ca2`
-- `MDA-Windows-1.31.0.131-Linux-0.9.0.21-x86_64.run`: `6dda1567de05be6a84eacb85d6d3aa636f80597e03278efe14e2a859c987f083`
+- `MDA-Setup-1.31.1.132.exe`: `4299e9a3289d8f37beb3cc6a870293a101015d68c69bcb9a16866ea0db96120b`
+- `MDA-Windows-1.31.1.132-Linux-0.9.1.22-x86_64.run`: `bcfc94a0af41490a6121c8aa86ce68ff16ad33b510488f36db19b260255b2cdb`
